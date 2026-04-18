@@ -1,7 +1,8 @@
+
 <p align="center">
 
-<!-- Animated Banner -->//
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6d28d9,a855f7&height=200&section=header&text=Jeet%20Paghdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Engineer%20in%20the%20Making&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeet%20Paghdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Engineer%20in%20the%20Making&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Teaching+machines+to+see+%26+think...;Turning+data+into+life-saving+insights;2nd+Year+CSE+(AI%26ML)+%7C+Deep+Learning+Dev" alt="Typing SVG" />
@@ -12,7 +13,7 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ3aWZ6d2I3Y3JkYW04ejZ5N2Jzb3lndGxsZWxyaDk3OGRub2d5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="230" />
 
-### About me
+### Who am I?
 
 * I'm a **2nd-year B.Tech CSE** student at **Symbiosis Institute of Technology, Pune**.
 * My primary focus is **Machine Learning, Deep Learning, and Computer Vision**.
@@ -66,12 +67,10 @@
 
 ## Currently Learning
 
-```text
 * Machine Learning & Deep Learning
 * Neural Networks for image and text data
 * Building APIs to serve AI models
 * Data Structures & Algorithms
-```
 
 ---
 
@@ -94,5 +93,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6d28d9&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+```
