@@ -1,6 +1,6 @@
 <p align="center">
 
-<!-- Animated Banner -->
+<!-- Animated Banner -->//
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6d28d9,a855f7&height=200&section=header&text=Jeet%20Paghdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CSE%20Engineer%20in%20the%20Making&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
