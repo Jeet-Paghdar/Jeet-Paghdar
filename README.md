@@ -1,12 +1,12 @@
-<div align="center">
+<p align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:a855f7&height=200&section=header&text=Jeet%20Paghdar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20Making&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=🧠+Teaching+machines+to+see+%26+think...;🔬+Turning+data+into+life-saving+insights;⚡+2nd+Year+CSE+(AI%26ML)+%7C+Deep+Learning+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Teaching+machines+to+see+%26+think...;Turning+data+into+life-saving+insights;2nd+Year+CSE+(AI%26ML)+%7C+Deep+Learning+Dev" alt="Typing SVG" />
 
-</div>
+</p>
 
 ---
 
